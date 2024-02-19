@@ -46,13 +46,6 @@ The project aims to create an interactive web application for the popular 2048 g
 
 - **Frontend:** HTML, CSS, JavaScript (or React for more advanced features).
 
-## Testing:
-
-### Test Plan:
-
-- **Unit Tests:** Checking the correctness of game mechanics.
-- **Interface Tests:** Ensuring the interface works correctly on different devices.
-
 ## Implementation:
 
 ### Technology Overview:

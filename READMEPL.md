@@ -46,13 +46,6 @@ Projekt ma na celu stworzenie gry 2048, popularnej gry logicznej, w formie inter
 
 - **Frontend:** HTML, CSS, JavaScript (ewentualnie z użyciem frameworka, np. React).
 
-## Testowanie:
-
-### Plan testów:
-
-- **Testy jednostkowe:** Sprawdzenie poprawności działania mechanizmów gry.
-- **Testy interfejsu:** Upewnienie się, że interfejs działa poprawnie na różnych urządzeniach.
-
 ## Implementacja:
 
 ### Opis technologii:
