@@ -95,4 +95,4 @@ Projekt ma na celu stworzenie gry 2048, popularnej gry logicznej, w formie inter
 - **Koszty utrzymania:** Serwery, usługi zewnętrzne, ewentualne opłaty za wsparcie techniczne.
 
 ---
-[English](README.md)
+[English](/README.md)
