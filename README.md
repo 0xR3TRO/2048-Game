@@ -96,4 +96,4 @@ The project aims to create an interactive web application for the popular 2048 g
 - **Maintenance Costs:** Servers, external services, potential fees for technical support.
 
 ---
-[Polish](READMEPL.md)
+[Polish](Documents/READMEPL.md)
